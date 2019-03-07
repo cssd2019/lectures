@@ -46,14 +46,16 @@ Keyword: Agile
 
 ## Day 3 (Thursday Mar 7th)
 
-   (all Kim)
-   - Creating better code
+   - Creating better code (Kim)
    - Useful links: [Software Carpentry lessons](https://software-carpentry.org/lessons/), ...
-   - Debugging
-   - Hands-on: Debugging python code with [PDB](https://docs.python.org/3/library/pdb.html)
-   - Unit testing
-   - Tools: [PDB](https://docs.python.org/3/library/pdb.html), [pytest](https://pytest.org/), logger, ...
-   - ...
+   - Debugging (Kim)
+   - Hands-on: Debugging python code with [PDB](https://docs.python.org/3/library/pdb.html) (Kim)
+   - Unit testing (Kim)
+   - Hands-on: Unit testing with [pytest](https://pytest.org/)
+   - Refactoring (Kim)
+   - Hands-on: Refactoring Kim's code
+   - Live demo: Code review (and some refactoring; David)
+   - Tools: [PDB](https://docs.python.org/3/library/pdb.html), [pytest](https://pytest.org/), logger, [PyCharm](https://www.jetbrains.com/pycharm/) IDE (Integrated development environment), ...
    
 ## Day 4 (Friday Mar 8th)
 
