@@ -1,8 +1,8 @@
 # Collaborative Scientific Software Development course, NORBIS & Digital Life Norway 2019
 
-__Instructors:__ David Grellscheid, Stefanie Holmgeirsdottir, Kidane M. Tekle, Kim Brugger, Matúš Kalaš
+__Instructors:__ David Grellscheid, Stefanie Hólmgeirsdóttir, Kidane M. Tekle, Kim Brugger, Matúš Kalaš
 
-### Preparation
+## Preparation
 
 Python (version >= 3.5)
 
@@ -21,8 +21,8 @@ Git version control
 (all David)
 
    - Norbis intro
-   - [Code you _want_ to read](1.1 - CodeYouWantToRead.pdf)
-   - [Python introduction](1.2 - PythonIntro.pdf)
+   - [Code you _want_ to read](1.1%20-%20CodeYouWantToRead.pdf)
+   - [Python introduction](1.2%20-%20PythonIntro.pdf)
    - Hands-on: [Project Euler](https://projecteuler.net/archives)
       - [1](https://projecteuler.net/problem=1), [2](https://projecteuler.net/problem=2), [3](https://projecteuler.net/problem=3) (to use basic language features)
       - [14](https://projecteuler.net/problem=14), [17](https://projecteuler.net/problem=17) (use dict), [57](https://projecteuler.net/problem=57)
@@ -36,13 +36,13 @@ __Homework till next week:__ Project Euler [number 3](https://projecteuler.net/p
 
 Keyword: Agile
 
-  - [Collaborative software development](2.1 - Collaborative Software Development.pdf) (Kidane)
-  - Additional material: [Best practices](2.2 - Best Practices.pdf) (Kidane)
+  - [Collaborative software development](2.1%20-%20Collaborative Software Development.pdf) (Kidane)
+  - Additional material: [Best practices](2.2%20-%20Best Practices.pdf) (Kidane)
   - Good project management is about people, love, and understanding; and some planning and documentation (Stefanie)
      - Requirements, solution proposal, team, project roles|responsibilites, changes, negotiations, evaluation, ...
   - Team work: Projecting a kindergarden playground (Miss Claudia, _alter ego_ of Stefanie)
   - Useful tools: [Trello](http://trello.com/)
-  - [Technical debt](2.3 - Technical Debt.pdf) (Kidane)
+  - [Technical debt](2.3%20-%20Technical Debt.pdf) (Kidane)
 
 ## Day 3 (Thursday Mar 7th)
 
