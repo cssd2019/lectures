@@ -36,13 +36,13 @@ __Homework till next week:__ Project Euler [number 3](https://projecteuler.net/p
 
 Keyword: Agile
 
-  - [Collaborative software development](2.1%20-%20Collaborative Software Development.pdf) (Kidane)
-  - Additional material: [Best practices](2.2%20-%20Best Practices.pdf) (Kidane)
+  - [Collaborative software development](2.1%20-%20Collaborative%20Software%20Development.pdf) (Kidane)
+  - Additional material: [Best practices](2.2%20-%20Best%20Practices.pdf) (Kidane)
   - Good project management is about people, love, and understanding; and some planning and documentation (Stefanie)
      - Requirements, solution proposal, team, project roles|responsibilites, changes, negotiations, evaluation, ...
   - Team work: Projecting a kindergarden playground (Miss Claudia, _alter ego_ of Stefanie)
   - Useful tools: [Trello](http://trello.com/)
-  - [Technical debt](2.3%20-%20Technical Debt.pdf) (Kidane)
+  - [Technical debt](2.3%20-%20Technical%20Debt.pdf) (Kidane)
 
 ## Day 3 (Thursday Mar 7th)
 
