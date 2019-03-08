@@ -59,6 +59,8 @@ Keyword: Agile
    
 ## Day 4 (Friday Mar 8th)
 
+Exercise: https://folk.uib.no/dgr061/cssd2019/day4/landcover.html
+
    
 ## Day 5 (Monday Mar 11th)
 
