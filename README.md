@@ -60,11 +60,10 @@ Keyword: Agile
 ## Day 4 (Friday Mar 8th)
 
    - [OO design](4.1%20-%20OOdesign.pdf)
-   - [Python: modules OO copying](4.2%20-%20Python_modules_OO_copying.pdf)
-   - [Numpy Scipy Matplotlib](4.3%20-%20Numpy_Scipy_Matplotlib.pdf)
-
-   - Exercise 1: https://folk.uib.no/dgr061/cssd2019/day4/bounce_task.py
-   - Exercise 2: https://folk.uib.no/dgr061/cssd2019/day4/landcover.html
+   - [Python: modules, OO, copying](4.2%20-%20Python_modules_OO_copying.pdf)
+   - [Python: Numpy, Scipy, Matplotlib](4.3%20-%20Numpy_Scipy_Matplotlib.pdf)
+   - Exercise 1: [Bouncing dots](bounce_task.py)
+   - Exercise 2: [Landcover data](https://folk.uib.no/dgr061/cssd2019/day4/landcover.html)
 
    
 ## Day 5 (Monday Mar 11th)
