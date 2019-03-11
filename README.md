@@ -68,6 +68,7 @@ Keyword: Agile
    
 ## Day 5 (Monday Mar 11th)
 
+   - [Group project descriptions](https://folk.uib.no/dgr061/cssd2019)
    
 ## Day 6 (Tuesday Mar 12th)
 
