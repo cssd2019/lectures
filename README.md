@@ -63,7 +63,7 @@ Keyword: Agile
    - [Python: modules, OO, copying](4.2%20-%20Python_modules_OO_copying.pdf)
    - [Python: Numpy, Scipy, Matplotlib](4.3%20-%20Numpy_Scipy_Matplotlib.pdf)
    - Exercise 1: [Bouncing dots](bounce_task.py)
-   - Exercise 2: [Landcover data](https://folk.uib.no/dgr061/cssd2019/day4/landcover.html)
+   - Exercise 2: [Landcover data](https://folk.uib.no/dgr061/cssd2019/landcover/)
 
    
 ## Day 5 (Monday Mar 11th)
