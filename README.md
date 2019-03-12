@@ -18,9 +18,9 @@ Git version control
 
 ## Day 1 (Tuesday Mar 5th)
 
-(all David)
+(all David except intro)
 
-   - Norbis intro
+   - Norbis intro (Ragna)
    - [Code you _want_ to read](1.1%20-%20CodeYouWantToRead.pdf)
    - [Python introduction](1.2%20-%20PythonIntro.pdf)
    - Hands-on: [Project Euler](https://projecteuler.net/archives)
@@ -72,10 +72,20 @@ Keyword: Agile
    
 ## Day 6 (Tuesday Mar 12th)
 
+   - Optimisation, profiling (David)
+   - Linking code across programming languages (David)
+   - ELIXIR (Christine)
+
    
 ## Day 7 (Wednesday Mar 13th)
 
+   - Containers (Kidane)
+   - Open source, community (Matus)
+
    
 ## Day 8 (Thursday Mar 14th)
+
+   - Continuous integration (Kim)
+    
 
 
