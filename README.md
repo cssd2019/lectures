@@ -89,7 +89,7 @@ Keyword: Agile
    
 ## Day 8 (Thursday Mar 14th)
 
-   - Continuous integration (Kim)
+   - Packaging & Continuous integration (Kim)
     
 
 
