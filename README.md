@@ -59,7 +59,10 @@ Keyword: Agile
    
 ## Day 4 (Friday Mar 8th)
 
-   - [OO design](4.1%20-%20OOdesign.pdf)
+(all David)
+
+   - [Object-oriented design](4.1%20-%20OOdesign.pdf)
+   - Hands-on OO design: Freight train station
    - [Python: modules, OO, copying](4.2%20-%20Python_modules_OO_copying.pdf)
    - [Python: Numpy, Scipy, Matplotlib](4.3%20-%20Numpy_Scipy_Matplotlib.pdf)
    - Exercise 1: [Bouncing dots](bounce_task.py)
@@ -68,6 +71,8 @@ Keyword: Agile
    
 ## Day 5 (Monday Mar 11th)
 
+   - Documentation (Kim)
+   - Version control with git (Kidane)
    - [Group project descriptions](https://folk.uib.no/dgr061/cssd2019)
        - [Genetic Bike](https://folk.uib.no/dgr061/cssd2019/bikegenes/index.html) ([group work repo](https://github.com/cssd2019/geneticbike))
        - [Traffic Jam](https://folk.uib.no/dgr061/cssd2019/trafficjam/index.html) ([group work repo](https://github.com/cssd2019/trafficjam))
@@ -77,19 +82,21 @@ Keyword: Agile
 ## Day 6 (Tuesday Mar 12th)
 
    - Optimisation, profiling (David)
-   - Linking code across programming languages (David)
+   - Live demo: Profiling (David)
+   - Live demo: Linking code across programming languages (David)
    - ELIXIR (Christine Stansberg)
 
    
 ## Day 7 (Wednesday Mar 13th)
 
    - Containers (Kidane)
-   - [Open source, community](https://docs.google.com/presentation/d/1EIT4yv0bMLvrqU1XUv_nwsl-6dlAEHKGw09SEWJ_890/edit?usp=sharing) (Matus)
+   - [Open source, community, licensing, publishing](https://docs.google.com/presentation/d/1EIT4yv0bMLvrqU1XUv_nwsl-6dlAEHKGw09SEWJ_890/edit?usp=sharing) (Matus)
 
    
 ## Day 8 (Thursday Mar 14th)
 
-   - Packaging & Continuous integration (Kim)
+   - Packaging & continuous integration (Kim)
+   - Presentations of group projects and discussion (everyone)
     
 
 
