@@ -80,7 +80,7 @@ Keyword: Agile
 ## Day 7 (Wednesday Mar 13th)
 
    - Containers (Kidane)
-   - Open source, community (Matus)
+   - [Open source, community](https://docs.google.com/presentation/d/1EIT4yv0bMLvrqU1XUv_nwsl-6dlAEHKGw09SEWJ_890/edit?usp=sharing) (Matus)
 
    
 ## Day 8 (Thursday Mar 14th)
