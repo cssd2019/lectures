@@ -1,6 +1,6 @@
 # Collaborative Scientific Software Development course, NORBIS & Digital Life Norway 2019
 
-__Instructors:__ David Grellscheid, Stefanie Hólmgeirsdóttir, Kidane M. Tekle, Kim Brugger, Matúš Kalaš
+__Instructors:__ David Grellscheid, Stefanie Hólmgeirsdóttir, Kidane M. Tekle, Kim Brügger, Matúš Kalaš
 
 ## Preparation
 
@@ -37,7 +37,7 @@ __Homework till next week:__ Project Euler [number 3](https://projecteuler.net/p
 Keyword: Agile
 
   - [Collaborative software development](2.1%20-%20Collaborative%20Software%20Development.pdf) (Kidane)
-  - Additional material: [Best practices](2.2%20-%20Best%20Practices.pdf) (Kidane)
+    - Additional material: [Best practices](2.2%20-%20Best%20Practices.pdf) (Kidane)
   - Good project management is about people, love, and understanding; and some planning and documentation (Stefanie)
      - Requirements, solution proposal, team, project roles|responsibilites, changes, negotiations, evaluation, ...
   - Team work: Projecting a kindergarden playground (Miss Claudia, _alter ego_ of Stefanie)
@@ -46,13 +46,13 @@ Keyword: Agile
 
 ## Day 3 (Thursday Mar 7th)
 
-   - Creating better code (Kim)
-   - Useful links: [Software Carpentry lessons](https://software-carpentry.org/lessons/), ...
-   - Debugging (Kim)
+   - [Creating better code](3.1%20-%20Introduction%20&%20best%20practices.pdf) (Kim)
+     - Useful links: [Software Carpentry lessons](https://software-carpentry.org/lessons/), ...
+   - [Debugging](3.2%20-%20Debugging.pdf) (Kim)
    - Hands-on: Debugging python code with [PDB](https://docs.python.org/3/library/pdb.html) (Kim)
-   - Unit testing (Kim)
+   - [Unit testing](3.3%20-%20Unit%20testing.pdf) (Kim)
    - Hands-on: Unit testing with [pytest](https://pytest.org/)
-   - Refactoring (Kim)
+   - [Refactoring](3.4%20-%20Refactoring.pdf) (Kim)
    - Hands-on: Refactoring Kim's code
    - Live demo: Code review (and some refactoring; David)
    - Tools: [PDB](https://docs.python.org/3/library/pdb.html), [pytest](https://pytest.org/), logger, [PyCharm](https://www.jetbrains.com/pycharm/) IDE (Integrated development environment), ...
@@ -71,7 +71,7 @@ Keyword: Agile
    
 ## Day 5 (Monday Mar 11th)
 
-   - Documentation (Kim)
+   - [Documentation](5.1%20-%20Norbis%20Documentation.pdf) (Kim)
    - Version control with git (Kidane)
    - [Group project descriptions](https://folk.uib.no/dgr061/cssd2019)
        - [Genetic Bike](https://folk.uib.no/dgr061/cssd2019/bikegenes/index.html) ([group work repo](https://github.com/cssd2019/geneticbike))
@@ -95,7 +95,7 @@ Keyword: Agile
    
 ## Day 8 (Thursday Mar 14th)
 
-   - Packaging & continuous integration (Kim)
+   - [Packaging & continuous integration](8.1%20-%20Packaging%20&%20continual%20integration.pdf) (Kim)
    - Presentations of group projects and discussion (everyone)
     
 
