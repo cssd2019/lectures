@@ -20,7 +20,7 @@ Git version control
 
 (all David except intro)
 
-   - Norbis intro (Ragna)
+   - Norbis intro (Ragna Breines)
    - [Code you _want_ to read](1.1%20-%20CodeYouWantToRead.pdf)
    - [Python introduction](1.2%20-%20PythonIntro.pdf)
    - Hands-on: [Project Euler](https://projecteuler.net/archives)
@@ -69,12 +69,16 @@ Keyword: Agile
 ## Day 5 (Monday Mar 11th)
 
    - [Group project descriptions](https://folk.uib.no/dgr061/cssd2019)
+       - [Genetic Bike](https://folk.uib.no/dgr061/cssd2019/bikegenes/index.html) ([group work repo](https://github.com/cssd2019/geneticbike))
+       - [Traffic Jam](https://folk.uib.no/dgr061/cssd2019/trafficjam/index.html) ([group work repo](https://github.com/cssd2019/trafficjam))
+       - [Mutation Analyser](https://folk.uib.no/dgr061/cssd2019/chasinscores/index.html) ([group work repo](https://github.com/cssd2019/mutationplanner))
+
    
 ## Day 6 (Tuesday Mar 12th)
 
    - Optimisation, profiling (David)
    - Linking code across programming languages (David)
-   - ELIXIR (Christine)
+   - ELIXIR (Christine Stansberg)
 
    
 ## Day 7 (Wednesday Mar 13th)
