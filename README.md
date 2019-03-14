@@ -81,7 +81,7 @@ Keyword: Agile
    
 ## Day 6 (Tuesday Mar 12th)
 
-   - Optimisation, profiling (David)
+   - [Optimisation, profiling](6.1%20-%20Optimization.pdf) (David)
    - Live demo: Profiling (David)
    - Live demo: Linking code across programming languages (David)
    - ELIXIR (Christine Stansberg)
