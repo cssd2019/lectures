@@ -72,7 +72,7 @@ Keyword: Agile
 ## Day 5 (Monday Mar 11th)
 
    - [Documentation](5.1%20-%20Norbis%20Documentation.pdf) (Kim)
-   - Version control with git (Kidane)
+   - [Version control with git](5.2%20-%20Git.pdf) (Kidane)
    - [Group project descriptions](https://folk.uib.no/dgr061/cssd2019)
        - [Genetic Bike](https://folk.uib.no/dgr061/cssd2019/bikegenes/index.html) ([group work repo](https://github.com/cssd2019/geneticbike))
        - [Traffic Jam](https://folk.uib.no/dgr061/cssd2019/trafficjam/index.html) ([group work repo](https://github.com/cssd2019/trafficjam))
