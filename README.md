@@ -99,4 +99,7 @@ Keyword: Agile
    - Presentations of group projects and discussion (everyone)
     
 
+## Feedback form
+
+   - Please fill in our [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSc0rlan1eicYeNJye4F8r4yGxx6ODZcBRazBnleBAxckPZV6Q/viewform?usp=sf_link)
 
